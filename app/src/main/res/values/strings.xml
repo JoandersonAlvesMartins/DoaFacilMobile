@@ -1,0 +1,146 @@
+<resources>
+
+    <!-- padrão -->
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_sair">Sair</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+
+    <!-- tela inicial -->
+    <string name="txt_titulo">Doa Fácil</string>
+    <string name="app_name">Tela_inicial</string>
+    <string name="txt_chamada">Conectando Você \n á \n Causa Certa</string>
+    <string name="btn_doador">Sou Doador</string>
+    <string name="btn_organizacao">Organização</string>
+    <string name="txt_roda_pe">Ateliê do Bem Mobile 2021 V.1.0 \n Todos os Direitos Reservado</string>
+
+    <!-- tela login -->
+    <string name="txt_titulo_login">Login</string>
+    <string name="logout">Login</string>
+    <string name="forgot_password"> Esqueci a Senha?</string>
+    <string name="registrar">Registrar-me?</string>
+    <string name="edit_password">Password</string>
+    <string name="edit_email">Email</string>
+
+    <!-- tela recuperar acesso -->
+    <string name="txt_tit_rec_acesso">Recuperar \nAcesso</string>
+    <string name="txt_descricao_rec_acesso">Redefinição de Senha \nPreencha Todos os Campos - Obrigatório</string>
+    <string name="txt_email_rec_acesso">Email</string>
+    <string name="txt_new_password">New Password</string>
+    <string name="repita_new_password">Repita a Password</string>
+    <string name="btn_redefinir_password">Redefinir Senha</string>
+
+    <!-- tela Cadastro -->
+    <string name="txt_titulo_cadastro">Cadastro</string>
+    <string name="txt_razao_social">Razão Social</string>
+    <string name="txt_nome_fantasia">Nome Fantasia</string>
+    <string name="txt_nome_respon">Nome Completo</string>
+    <string name="txt_cnpj">CNPJ</string>
+    <string name="txt_contato_cel">Contato</string>
+    <string name="txt_logradouro">Logradouro (Rua - Avenide e etc..)</string>
+    <string name="txt_cep">CEP</string>
+    <string name="txt_numero_imovel">Número</string>
+    <string name="txt_bairro">Bairro</string>
+    <string name="txt_cidade">Cidade</string>
+    <string name="txt_Complemento">Complemento</string>
+    <string name="txt_cad_email">Email</string>
+    <string name="txt_cad_senha">Senha</string>
+
+    <!-- tela opções organização -->
+    <string name="txt_titulo_opcoes_organizacao">Aqui nome da \nOrganização</string>
+    <string name="btn_mudar_senha">Mudar Senha</string>
+    <string name="btn_historico_doacao">Histórico Campanha</string>
+    <string name="btn_criar_campanha">Criar Campanha</string>
+    <string name="btn_perfil">Perfil</string>
+
+    <!-- tela  Criar Campanha -->
+    <string name="txt_titulo_criar_campanha">Criar \nCampanha</string>
+    <string name="txt_info_meta">Estipule um valor para sua campanha.</string>
+    <string name="txt_valor_meta">Valor Meta </string>
+    <string name="txt_descricao">Descreva de forma detalhada para seu doador em que será empregado o montante arrecado nesta campanha.</string>
+    <string name="txt_moeda">R$ 10,00</string>
+    <string name="title_activity_tela_criar_campanha">Tela_Criar_Campanha</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="txt_descr">Descrição</string>
+
+    <!-- tela Perfil -->
+    <string name="txt_titulo_perfil">Perfil</string>
+    <string name="btn_atualizar">Atualizar</string>
+
+    <!-- tela historico campanha -->
+    <string name="txt_titulo_hist_camp">Histórico Campanhas</string>
+    <string name="btn_hist_sair">Sair</string>
+    <string name="btn_hist_geral">Campanha Geral</string>
+    <string name="btn_hist_mes">Campanha Mês</string>
+    <string name="btn_hist_atual">Campanha Atual</string>
+
+    <!-- tela historico geral -->
+    <string name="txt_titulo_opcao_historico">Histórico Geral</string>
+    <string name="txt_hist_geral_total_campanha">Campanhas Criadas</string>
+    <string name="txt_hist_geral_total_doador">Total Doadores</string>
+    <string name="txt_hist_geral_total_arrecadado">Total Arrecadado</string>
+    <string name="txt_hist_geral_hint_valor">R$</string>
+    <string name="btn_hist_geral_lista_completa">Ver Lista Completa</string>
+    <string name="btn_hist_geral_imprimir">Imprimir Lista</string>
+    <string name="btn_hist_geral_sair">Sair</string>
+
+    <!-- tela opção mês -->
+    <string name="txt_opcao_mes">Mês Campanha</string>
+    <string name="txt_mes_escolhido">Digite o Mês\n Escolhido</string>
+    <string name="txt_hint_opcao_mes">Mês</string>
+    <string name="btn_proximo">Próximo</string>
+
+    <!-- tela historico mês -->
+    <string name="txt_hist_mes">Histórico Mês</string>
+    <string name="txt_hist_cod">Cod:</string>
+    <string name="txt_hist_mes_escolhido">Mês:</string>
+    <string name="txt_hist_meta">Meta R$:</string>
+    <string name="txt_hist_total_doadores">Total Doadores:</string>
+    <string name="txt_hist_arrecadacao">Arrecadação R$:</string>
+    <string name="txt_hist_status">Status:</string>
+    <string name="txt_hist_finalizado">Finalizado</string>
+    <string name="txt_hist_em_andamento">Em Andamento</string>
+    <string name="txt_hist_descricao">Descrição Campanha</string>
+    <string name="btn_hist_imprimir_campanha">Imprimir</string>
+
+    <!-- tela historico atual -->
+    <string name="txt_titulo_camp_atual">Campanha Atual</string>
+    <string name="txt_camp_cod">Cod:</string>
+    <string name="txt_camp_mes_atual">Mês:</string>
+    <string name="txt_camp_meta">Meta R$:</string>
+    <string name="txt_camp_total_doadores">Total Doadores:</string>
+    <string name="txt_camp_arrecadacao">Arrecadação R$:</string>
+    <string name="txt_camp_status">Status:</string>
+    <string name="txt_camp_ativo">Em Andamento</string>
+    <string name="txt_camp_descricao">Descrição Campanha</string>
+
+    <!-- tela campanhas -->
+    <string name="txt_titulo_camp_doacao">Campanhas</string>
+    <string name="txt_nome_org_camp_doacao">Nome Organização</string>
+    <string name="txt_meta_org_camp_doacao">Meta R$:</string>
+    <string name="txt_data_list_camp_doadores">Válida: </string>
+    <string name="txt_arrecadacao_camp_doadores">Arrecadação R$:</string>
+    <string name="txt_doadores_camp_doacao">Total Doadores:</string>
+    <string name="txt_descricao_camp_doadores">Descrição Campanha</string>
+    <string name="txt_hist_descricao_camp_doadores">kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddffffffffffffffffgggggggggggggggggggggggggggg</string>
+    <string name="txt_valor_doacao_camp_doadores">Doar R$:</string>
+    <string name="btn_Doar_camp_doadores">Gerar Doação</string>
+    <string name="btn_sair_camp_doadores">Sair</string>
+
+    <!-- tela lista completa -->
+    <string name="txt_titulo_lista_comp">Minhas Campanhas</string>
+    <string name="txt_meta_lista_camp">Meta R$:</string>
+    <string name="txt_periodo_lista_camp">Período </string>
+    <string name="txt_total_arrecadado_lista_camp">Arrecadação Total R$:</string>
+    <string name="txt_total_doadores_lista_camp">Total Doadores </string>
+    <string name="txt_descricao_lista_camp">Descrição</string>
+    <string name="btn_ver_camp">Ver Campanha</string>
+    <string name="btn_imprimir_lista_camp">Imprimir Histórico</string>
+    <string name="btn_sair_lista_camp">Sair</string>
+
+    <!-- tela forma pagamento -->
+
+    <!-- tela confirmação doação -->
+
+</resources>
